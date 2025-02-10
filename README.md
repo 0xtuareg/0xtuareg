@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**remmarziano/remmarziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Renato, a Computer Eng. Student [@UniBo](https://www.unibo.it/it). I work in Cybersec / research in Cryptography sometimes. 
 
-Here are some ideas to get you started:
+[Linkedin](https://www.linkedin.com/in/renato-eugenio-maria-marziano)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I like to mess around with AI and 3D modelling.
+
+Languages and tools:
+
+* Proficient in Rust (6+ years)
+* Proficient in Python (4+ years) as well as data science tools (numpy, scikit-learn, scipy, dask)
+* DevOps: Terraform / Docker / K8S / AWS
+* Database: Postgres
+* Smart Contract: Solana (25k lines of code)
