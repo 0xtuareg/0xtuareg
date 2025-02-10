@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Renato, a Computer Eng. Student [@UniBo](https://www.unibo.it/it). I work in Cybersec / research in Cryptography sometimes. 
+I'm Renato, a Computer Eng. Student [@UniBo](https://www.unibo.it/it). I work in Blockchain Security [@OtterSec](https://osec.io/) / research in Cryptography sometimes. 
 
 [Linkedin](https://www.linkedin.com/in/renato-eugenio-maria-marziano)
 
