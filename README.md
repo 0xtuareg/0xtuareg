@@ -23,3 +23,6 @@ Decentralizing the dYdX orderbook and matching engine. [https://github.com/cyndi
 
 ### atama: AI engine for Solana program optimization
 An automated engine designed to optimize Solana programs in Rust via machine learning. [https://github.com/cyndikid/atama.git](https://github.com/cyndikid/atama.git)
+
+## record: SPL
+The SPL Record program and its clients [https://github.com/cyndikid/record.git](https://github.com/cyndikid/record.git)
