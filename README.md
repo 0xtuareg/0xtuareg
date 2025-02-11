@@ -15,4 +15,6 @@ Languages and tools:
 
 ## Check out some projects I'm working on!
 
-# zig-bootstrap
+### zig-bootstrap: take off every zig
+Start with minimum system dependencies and end with a fully operational Zig compiler for any target. [https://github.com/cyndikid/zig-bootstrap.git](https://github.com/cyndikid/zig-bootstrap.git)
+
