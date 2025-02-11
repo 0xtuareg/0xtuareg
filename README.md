@@ -19,4 +19,7 @@ Languages and tools:
 Start with minimum system dependencies and end with a fully operational Zig compiler for any target. [https://github.com/cyndikid/zig-bootstrap.git](https://github.com/cyndikid/zig-bootstrap.git)
 
 ### v4-web: chain web
-Decentralizing the dYdX orderbook and matching engine [https://github.com/cyndikid/v4-web.git](https://github.com/cyndikid/v4-web.git)
+Decentralizing the dYdX orderbook and matching engine. [https://github.com/cyndikid/v4-web.git](https://github.com/cyndikid/v4-web.git)
+
+### atama: AI engine for Solana program optimization
+An automated engine designed to optimize Solana programs in Rust via machine learning. [https://github.com/cyndikid/atama.git](https://github.com/cyndikid/atama.git)
