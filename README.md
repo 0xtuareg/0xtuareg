@@ -1,8 +1,6 @@
-## Hi there 👋
+## About Me
 
-I'm Renato, a Computer Eng. Student [@UniBo](https://www.unibo.it/it). I work in Blockchain Security / research in Cryptography sometimes. 
-
-[Linkedin](https://www.linkedin.com/in/renato-eugenio-maria-marziano)
+I work on a lot of things including non-equilibrium fluid dynamics, cosmology (large scale structure and scalar field dark matter), machine learning, distributed systems, smart contracts, (financial) derivatives.
 
 In my spare time, I like to mess around with AI and 3D modelling.
 
