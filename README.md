@@ -11,3 +11,8 @@ Languages and tools:
 * DevOps: Terraform / Docker / K8S / AWS
 * Database: Postgres
 * Smart Contract: Solana (25k lines of code)
+
+
+## Check out some projects I'm working on!
+
+# zig-bootstrap
