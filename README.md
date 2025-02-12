@@ -21,8 +21,8 @@ Start with minimum system dependencies and end with a fully operational Zig comp
 ### v4-web: chain web
 Decentralizing the dYdX orderbook and matching engine. [https://github.com/cyndikid/v4-web.git](https://github.com/cyndikid/v4-web.git)
 
-### atama: AI engine for Solana program optimization
-An automated engine designed to optimize Solana programs in Rust via machine learning. [https://github.com/cyndikid/atama.git](https://github.com/cyndikid/atama.git)
+### jck: self imporiving smart contracts
+Jck is an AI engine that integrates machine learning to dynamically adjust the behavior of smart contracts based on user interactions.
 
 ## record: SPL
 The SPL Record program and its clients [https://github.com/cyndikid/record.git](https://github.com/cyndikid/record.git)
