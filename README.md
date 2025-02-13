@@ -21,7 +21,8 @@ Start with minimum system dependencies and end with a fully operational Zig comp
 ### v4-web: chain web
 Decentralizing the dYdX orderbook and matching engine. [https://github.com/cyndikid/v4-web.git](https://github.com/cyndikid/v4-web.git)
 
-
+### atama: Solana program optimization
+Atama is an automated engine designed to optimize Solana programs in Rust via machine learning. [https://github.com/tangentxyz/atama](https://github.com/tangentxyz/atama)
 
 ### record: SPL
-The SPL Record program and its clients [https://github.com/cyndikid/record.git](https://github.com/cyndikid/record.git)
+The SPL Record program and its clients. [https://github.com/cyndikid/record.git](https://github.com/cyndikid/record.git)
