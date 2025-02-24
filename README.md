@@ -7,7 +7,7 @@ I work on a lot of things including non-equilibrium fluid dynamics, cosmology (l
 Languages and tools:
 
 * Proficient in Rust (4+ years)
-* Proficient in Python (3+ years) as well as data science tools (numpy, scikit-learn, scipy, dask)
+* Proficient in TypeScript (3+ years) as well as data science tools (numpy, scikit-learn, scipy, dask)
 * DevOps: Terraform / Docker / K8S / AWS
 * Database: Postgres
 * Smart Contract: Solana (25k lines of code)
