@@ -10,7 +10,7 @@ Languages and tools:
 * Proficient in TypeScript (3+ years) as well as data science tools (numpy, scikit-learn, scipy, dask)
 * DevOps: Terraform / Docker / K8S / AWS
 * Database: Postgres
-* Smart Contract: Solana (25k lines of code)
+* Smart Contract: Programs (25k lines of code)
 
 
 
